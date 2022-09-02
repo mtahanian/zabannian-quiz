@@ -1,29 +1,29 @@
 {
     "id": 1,
-    "name": "واژگان 504 - درس اول",
+    "name": "واژگان 504 - درس دوم",
     "description": "امتحان از 504 واژگان پیج زبانیان",
     "questions": [
         {
             "id": 1010,
-            "name": "Abandon معنی کلمه",
+            "name": "corpse معنی کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "رهاسازی",
+                    "name": "مرگ",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "فراموش کردن",
+                    "name": "زندگی",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "ترک کردن",
+                    "name": "جسد",
                     "isAnswer": true
                 },
                 {
@@ -41,31 +41,31 @@
         },
         {
             "id": 1011,
-            "name": "keen مترادف کلمه",
+            "name": "conceal مترادف کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "desert",
+                    "name": "show",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "brave",
+                    "name": "visible",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "sharp",
+                    "name": "hide",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "هیچ کدام",
+                    "name": "None Above",
                     "isAnswer": false
                 }
             ],
@@ -77,31 +77,31 @@
         },
         {
             "id": 1012,
-            "name": "Definition of `jealous`",
+            "name": "Definition of `dismal`",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "wanting what someone else has",
+                    "name": "dark and depressing",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "ability to say the right thing",
+                    "name": "light and helpful",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "empty, full of nothing",
+                    "name": "grayed out",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "هیچ کدام",
+                    "name": "None Above",
                     "isAnswer": false
                 }
             ],
@@ -113,25 +113,25 @@
         },
         {
             "id": 1013,
-            "name": "Tact معنی کلمه ",
+            "name": "frigid معنی کلمه ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "تدبیر",
+                    "name": "خیلی سرد",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "باعث شدن",
+                    "name": "گرم",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "حسودی",
+                    "name": "متعادل",
                     "isAnswer": false
                 },
                 {
@@ -149,31 +149,31 @@
         },
         {
             "id": 1014,
-            "name": "Oath مترادف کلمه",
+            "name": "numb مترادف کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "right thing",
+                    "name": "living",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "eager",
+                    "name": "responsive",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "information",
+                    "name": "sensitive",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "a curse",
+                    "name": "deadened",
                     "isAnswer": true
                 }
             ],
@@ -185,31 +185,31 @@
         },
         {
             "id": 1015,
-            "name": "vacant متضاد کلمه",
+            "name": "peril متضاد کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Empty",
+                    "name": "danger",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Good",
+                    "name": "risk",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Filled",
+                    "name": "Safety",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Perfect",
+                    "name": "problem",
                     "isAnswer": false
                 }
             ],
@@ -221,31 +221,31 @@
         },
         {
             "id": 1016,
-            "name": "hardship مترادف کلمه",
+            "name": "recline مترادف کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Hardly-Ever",
+                    "name": "stand",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "difficult",
+                    "name": "lean back",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "heavy",
+                    "name": "sit up",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "tough",
+                    "name": "come level",
                     "isAnswer": false
                 }
             ],
@@ -257,31 +257,31 @@
         },
         {
             "id": 1017,
-            "name": "Unaccustomed معنی کلمه",
+            "name": "wager معنی کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "عادی",
+                    "name": "بدهی",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "غیرعادی",
+                    "name": "شرط بندی",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "غیر طبیعی",
+                    "name": "قرض",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "طبیعی",
+                    "name": "هیچ کدام",
                     "isAnswer": false
                 }
             ],
@@ -293,25 +293,25 @@
         },
         {
             "id": 1018,
-            "name": "Qualify معنی کلمه ",
+            "name": "sinister معنی کلمه ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "درست",
+                    "name": "بد",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "واجد شرایط",
+                    "name": "شیطانی",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "مجبور بودن",
+                    "name": "به خوبی",
                     "isAnswer": false
                 },
                 {
@@ -329,31 +329,31 @@
         },
         {
             "id": 1019,
-            "name": "gallant مترادف کلمه",
+            "name": "tempt مترادف کلمه",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "brave",
+                    "name": "invite",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "respect",
+                    "name": "discourage",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "sweetheart",
+                    "name": "prevent",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "lover",
+                    "name": "put off",
                     "isAnswer": false
                 }
             ],
