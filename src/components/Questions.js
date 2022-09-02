@@ -26,7 +26,7 @@ class Questions extends Component {
         return (
             <div id="quiz">
                 <h2 className="text-center font-weight-normal">{this.props.quiz.name}</h2>
-                <hr />
+                <hr style={{borderTop:"1px solid white"}}  />
                 {questions.map(q =>
                     <div key={q.id}>
                         <div className='text-right'><div className="badge badge-info">سوال {this.props.pager.index + 1} از {this.props.pager.count}</div></div>

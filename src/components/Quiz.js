@@ -54,8 +54,8 @@ class Quiz extends Component {
             <div>
                 {this.renderMode()}
                 {(this.props.mode !== 'submit') &&
-                    <div className='text-right'>
-                        <hr />
+                    <div className='text-center'>
+                        <hr style={{borderTop:"1px solid white"}} />
                         <button id="submit" className="btn btn-primary" onClick={this.setMode}>نهایی کردن پاسخ ها</button >
                         <button id="review" className="btn btn-info" onClick={this.setMode}>مرور سوالات</button>
                         <button id="quiz" className="btn btn-info" onClick={this.setMode}>رفتن به سوالات</button>

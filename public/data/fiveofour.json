@@ -7,6 +7,7 @@
             "id": 1010,
             "name": "corpse معنی کلمه",
             "questionTypeId": 1,
+            "answer":2,
             "options": [
                 {
                     "id": 1055,
@@ -43,6 +44,7 @@
             "id": 1011,
             "name": "conceal مترادف کلمه",
             "questionTypeId": 1,
+            "answer":2,
             "options": [
                 {
                     "id": 1055,
@@ -79,6 +81,7 @@
             "id": 1012,
             "name": "Definition of `dismal`",
             "questionTypeId": 1,
+            "answer":0,
             "options": [
                 {
                     "id": 1055,
@@ -115,6 +118,7 @@
             "id": 1013,
             "name": "frigid معنی کلمه ",
             "questionTypeId": 1,
+            "answer":0,
             "options": [
                 {
                     "id": 1055,
@@ -151,6 +155,7 @@
             "id": 1014,
             "name": "numb مترادف کلمه",
             "questionTypeId": 1,
+            "answer":3,
             "options": [
                 {
                     "id": 1055,
@@ -187,6 +192,7 @@
             "id": 1015,
             "name": "peril متضاد کلمه",
             "questionTypeId": 1,
+            "answer":2,
             "options": [
                 {
                     "id": 1055,
@@ -223,6 +229,7 @@
             "id": 1016,
             "name": "recline مترادف کلمه",
             "questionTypeId": 1,
+            "answer":1,
             "options": [
                 {
                     "id": 1055,
@@ -259,6 +266,7 @@
             "id": 1017,
             "name": "wager معنی کلمه",
             "questionTypeId": 1,
+            "answer":1,
             "options": [
                 {
                     "id": 1055,
@@ -295,6 +303,7 @@
             "id": 1018,
             "name": "sinister معنی کلمه ",
             "questionTypeId": 1,
+            "answer":1,
             "options": [
                 {
                     "id": 1055,
@@ -331,6 +340,7 @@
             "id": 1019,
             "name": "tempt مترادف کلمه",
             "questionTypeId": 1,
+            "answer":0,
             "options": [
                 {
                     "id": 1055,

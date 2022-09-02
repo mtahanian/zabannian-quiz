@@ -1,16 +1,19 @@
 .btn {
-    border-radius: 0;
+    border-radius: 5;
+    color: #fff;
 }
 
 .btn + .btn {
     margin-left: 10px;
+    color: #fff;
 }
 
 .option {
-    background-color: #cadaee;
+    background-color: rgba(202, 218, 238, 0.4);
     cursor: pointer;
-    font-size: 20px;
+    font-size: 18px;
     margin: 4px;
+    color: #fff;
 }
 
 .option label {
@@ -30,33 +33,38 @@
 }
 
 .result-question {
-    background-color: #eee;
+    background-color: #262626;
     margin: 4px;
     padding: 6px;
-    columns: 3;
+    columns: 2;
+    font-size: x-small;
+    color: #fff;
 }
 
 /* Create Quiz Styles */
 .create-quiz .question {
     text-align: left;
+    color: #fff;
 }
 
 .create-quiz input[type=text] {
     border: 1px solid #ddd;
     width: 95%;
+    color: #fff;
 }
 
 .create-quiz .tb-quiz-name {
-    background-color: #ccffcc;
+    background-color: #262626;
     text-align: center;
 }
 
 .create-quiz .tb-desc {
-    background-color: #fff;
+    background-color: #262626;
 }
 
 .create-quiz .options > div {
     margin-left: 20px;
+    color: #fff;
 }
 
 .create-quiz .options input[type=checkbox] {
@@ -67,23 +75,41 @@
     margin-bottom: 0;
     padding: 0;
     width: 20px;
+    color: #fff;
 }
 
 @media only screen and (max-width: 480px) {
     h1, .h1 {
-        font-size: 22px;
+        font-size: 18px;
+        color: #fff;
     }
 
     h2, .h2 {
-        font-size: 20px;
+        font-size: 16px;
+        color: #fff;
     }
 
     h3, .h3 {
-        font-size: 18px;
+        font-size: 14px;
+        color: #fff;
+    }
+    h5, .h5 {
+        font-size: 10px;
+        color: #fff;
     }
 
     .option {
-        font-size: 16px;
-        padding: 6px;
+        font-size: 14px;
+        padding: 4px;
     }
+}
+
+:root{
+    color-scheme: dark;
+    background-color: #262626;
+}
+
+.container{
+    background-color: #262626;
+    color: #fff;
 }

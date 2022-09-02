@@ -12,7 +12,7 @@ class Review extends Component {
             <div className="row text-center">
                 {this.props.quiz.questions.map((q, index) =>
                     <div key={q.id} className="col-3 cursor-pointer">
-                        <div id={index} onClick={this.props.move} className={`p-3 mb-2 ${this.isAnswered(q) === 'پاسخ داده شده' ? 'bg-info' : 'bg-warning'}`}>{index + 1}. {this.isAnswered(q)}</div>
+                        <div id={index} onClick={this.props.move} className={`p-3 mb-2 ${this.isAnswered(q) === 'پاسخ داده شده' ? 'bg-info' : 'bg-danger'}`}>{index + 1}. {this.isAnswered(q)}</div>
                     </div>
                 )}
             </div>
