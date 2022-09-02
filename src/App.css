@@ -33,6 +33,7 @@
     background-color: #eee;
     margin: 4px;
     padding: 6px;
+    columns: 3;
 }
 
 /* Create Quiz Styles */
