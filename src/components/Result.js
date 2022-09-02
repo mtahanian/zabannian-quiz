@@ -17,11 +17,7 @@ function Result(props) {
                         <h5>{index + 1}. {q.name}</h5>
                         <div className={`m-1 p-1 ${q.isCorrect ? 'text-success' : q.isAnswered ? 'text-warning' : 'text-danger'}`}>شما به این سوال پاسخ {q.isCorrect?"صحیح داده اید":q.isAnswered?"نداده اید":"اشتباه داده اید"}</div>
                         {/* <div className={`m-1 p-1 ${q.isCorrect ? 'text-success' : 'text-danger'}`}></div> */}
-                        {
-                            q.isCorrect ? 
-                            <h6></h6> :
-                            show ? <h6>پاسخ صحیح:  {q.options[q.answer].name}</h6> : null
-                        }
+                        {q.isCorrect ? <h6> </h6> :show ? <h6>پاسخ صحیح:  {q.options[q.answer].name}</h6> : null}
                         {/* <div className="row">
                             {
                                 q.options.map((option, index) =>
