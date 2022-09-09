@@ -1,31 +1,31 @@
 {
     "id": 1,
-    "name": "واژگان 504 - درس دوم",
+    "name": "واژگان 504 - درس سوم",
     "description": "امتحان از 504 واژگان پیج زبانیان",
     "questions": [
         {
             "id": 1010,
-            "name": "corpse معنی کلمه",
+            "name": "typical معنی کلمه",
             "questionTypeId": 1,
             "answer":2,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "مرگ",
-                    "isAnswer": false
+                    "name": "معمولی",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "زندگی",
+                    "name": "طبیعی",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "جسد",
-                    "isAnswer": true
+                    "name": "نتوع",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "conceal مترادف کلمه",
+            "name": "minimum مترادف کلمه",
             "questionTypeId": 1,
             "answer":2,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "show",
+                    "name": "greatest",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "visible",
-                    "isAnswer": false
+                    "name": "least",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "hide",
-                    "isAnswer": true
+                    "name": "top",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "None Above",
+                    "name": "summit",
                     "isAnswer": false
                 }
             ],
@@ -79,27 +79,27 @@
         },
         {
             "id": 1012,
-            "name": "Definition of `dismal`",
+            "name": "Definition of `scarce`",
             "questionTypeId": 1,
             "answer":0,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "dark and depressing",
-                    "isAnswer": true
+                    "name": "having little length",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "light and helpful",
+                    "name": "limited",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "grayed out",
-                    "isAnswer": false
+                    "name": "insufficient for the demand",
+                    "isAnswer": true
                 },
                 {
                     "id": 1058,
@@ -116,26 +116,26 @@
         },
         {
             "id": 1013,
-            "name": "frigid معنی کلمه ",
+            "name": "annual معنی کلمه ",
             "questionTypeId": 1,
             "answer":0,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "خیلی سرد",
+                    "name": "سالیانه",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "گرم",
+                    "name": "ماهیانه",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "متعادل",
+                    "name": "روزانه",
                     "isAnswer": false
                 },
                 {
@@ -153,32 +153,32 @@
         },
         {
             "id": 1014,
-            "name": "numb مترادف کلمه",
+            "name": "persuade مترادف کلمه",
             "questionTypeId": 1,
             "answer":3,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "living",
+                    "name": "required",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "responsive",
+                    "name": "discourage",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "sensitive",
+                    "name": "dissuade",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "deadened",
+                    "name": "satisfy",
                     "isAnswer": true
                 }
             ],
@@ -190,32 +190,32 @@
         },
         {
             "id": 1015,
-            "name": "peril متضاد کلمه",
+            "name": "essential متضاد کلمه",
             "questionTypeId": 1,
             "answer":2,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "danger",
+                    "name": "critical",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "risk",
-                    "isAnswer": false
+                    "name": "unnecessary",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Safety",
-                    "isAnswer": true
+                    "name": "critical",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "problem",
+                    "name": "important",
                     "isAnswer": false
                 }
             ],
@@ -227,32 +227,32 @@
         },
         {
             "id": 1016,
-            "name": "recline مترادف کلمه",
+            "name": "devise مترادف کلمه",
             "questionTypeId": 1,
             "answer":1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "stand",
+                    "name": "new",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "lean back",
+                    "name": "invent",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "sit up",
+                    "name": "draw up",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "come level",
+                    "name": "workout",
                     "isAnswer": false
                 }
             ],
@@ -264,26 +264,26 @@
         },
         {
             "id": 1017,
-            "name": "wager معنی کلمه",
+            "name": "talent معنی کلمه",
             "questionTypeId": 1,
             "answer":1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "بدهی",
-                    "isAnswer": false
+                    "name": "قریحه",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "شرط بندی",
-                    "isAnswer": true
+                    "name": "گران",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "قرض",
+                    "name": "ابداع کردن",
                     "isAnswer": false
                 },
                 {
@@ -301,26 +301,26 @@
         },
         {
             "id": 1018,
-            "name": "sinister معنی کلمه ",
+            "name": "blend معنی کلمه ",
             "questionTypeId": 1,
             "answer":1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "بد",
+                    "name": "seprate",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "شیطانی",
+                    "name": "stir",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "به خوبی",
+                    "name": "observable",
                     "isAnswer": false
                 },
                 {
@@ -338,32 +338,32 @@
         },
         {
             "id": 1019,
-            "name": "tempt مترادف کلمه",
+            "name": "visible مترادف کلمه",
             "questionTypeId": 1,
             "answer":0,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "invite",
-                    "isAnswer": true
+                    "name": "viewless",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "discourage",
+                    "name": "invisible",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "prevent",
-                    "isAnswer": false
+                    "name": "observable",
+                    "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "put off",
+                    "name": "None Above",
                     "isAnswer": false
                 }
             ],
