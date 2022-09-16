@@ -15,7 +15,7 @@ const mapDispatchToProps = dispatch => ({
 class App extends Component {
   state = {
     quizes: [
-      { id: 'data/fiveofour.json', name: '504 واژگان - درس سوم' },
+      { id: 'data/fiveofour.json', name: '504 واژگان - درس چهارم' },
     ],
     quizId: 'data/fiveofour.json'
   };
