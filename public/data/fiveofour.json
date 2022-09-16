@@ -1,30 +1,30 @@
 {
     "id": 1,
-    "name": "واژگان 504 - درس سوم",
+    "name": "واژگان 504 - درس چهارم",
     "description": "امتحان از 504 واژگان پیج زبانیان",
     "questions": [
         {
             "id": 1010,
-            "name": "typical معنی کلمه",
+            "name": "vapor معنی کلمه",
             "questionTypeId": 1,
             "answer":2,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "معمولی",
+                    "name": "بخار",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "طبیعی",
+                    "name": "گاز",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "نتوع",
+                    "name": "غلیظ",
                     "isAnswer": false
                 },
                 {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "minimum مترادف کلمه",
+            "name": "eliminate مترادف کلمه",
             "questionTypeId": 1,
             "answer":2,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "greatest",
+                    "name": "add something",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "least",
+                    "name": "get rid of something",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "top",
+                    "name": "remove something",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "summit",
+                    "name": "None Above",
                     "isAnswer": false
                 }
             ],
@@ -79,27 +79,27 @@
         },
         {
             "id": 1012,
-            "name": "Definition of `scarce`",
+            "name": "Synonym of `dense`",
             "questionTypeId": 1,
             "answer":0,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "having little length",
-                    "isAnswer": false
+                    "name": "Compact",
+                    "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "limited",
+                    "name": "Open",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "insufficient for the demand",
-                    "isAnswer": true
+                    "name": "Insufficient",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
@@ -116,32 +116,32 @@
         },
         {
             "id": 1013,
-            "name": "annual معنی کلمه ",
+            "name": "utilize متضاد کلمه ",
             "questionTypeId": 1,
             "answer":0,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "سالیانه",
-                    "isAnswer": true
+                    "name": "apply",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "ماهیانه",
+                    "name": "use",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "روزانه",
-                    "isAnswer": false
+                    "name": "halt",
+                    "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "هیچ کدام",
+                    "name": "None Above",
                     "isAnswer": false
                 }
             ],
@@ -153,32 +153,32 @@
         },
         {
             "id": 1014,
-            "name": "persuade مترادف کلمه",
+            "name": "humid مترادف کلمه",
             "questionTypeId": 1,
             "answer":3,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "required",
+                    "name": "dry",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "discourage",
+                    "name": "foggy",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "dissuade",
+                    "name": "ascend",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "satisfy",
+                    "name": "damp",
                     "isAnswer": true
                 }
             ],
@@ -190,32 +190,32 @@
         },
         {
             "id": 1015,
-            "name": "essential متضاد کلمه",
+            "name": "theory مترادف کلمه",
             "questionTypeId": 1,
             "answer":2,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "picky",
+                    "name": "oportunity",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "unnecessary",
+                    "name": "supposition",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "critical",
+                    "name": "moist",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "important",
+                    "name": "None Above",
                     "isAnswer": false
                 }
             ],
@@ -227,32 +227,32 @@
         },
         {
             "id": 1016,
-            "name": "devise مترادف کلمه",
+            "name": "descend مترادف کلمه",
             "questionTypeId": 1,
             "answer":1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "new",
+                    "name": "improve",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "invent",
+                    "name": "decline",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "draw up",
+                    "name": "accept",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "workout",
+                    "name": "disagree",
                     "isAnswer": false
                 }
             ],
@@ -264,20 +264,20 @@
         },
         {
             "id": 1017,
-            "name": "talent معنی کلمه",
+            "name": "circulate معنی کلمه",
             "questionTypeId": 1,
             "answer":1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "قریحه",
+                    "name": "دورزدن",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "گران",
+                    "name": "دور کردن",
                     "isAnswer": false
                 },
                 {
@@ -301,32 +301,32 @@
         },
         {
             "id": 1018,
-            "name": "blend معنی کلمه ",
+            "name": "enormous هم معنی کلمه ",
             "questionTypeId": 1,
             "answer":1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "seprate",
+                    "name": "tiny",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "stir",
+                    "name": "vast",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "observable",
+                    "name": "little",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "هیچ کدام",
+                    "name": "a few",
                     "isAnswer": false
                 }
             ],
@@ -338,33 +338,33 @@
         },
         {
             "id": 1019,
-            "name": "visible مترادف کلمه",
+            "name": "کدام یک از گزینه های زیر هم معنی کلمه Predict نیست؟",
             "questionTypeId": 1,
             "answer":0,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "viewless",
+                    "name": "forecast",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "invisible",
+                    "name": "foretell",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "observable",
-                    "isAnswer": true
+                    "name": "prophesy",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
                     "name": "None Above",
-                    "isAnswer": false
+                    "isAnswer": true
                 }
             ],
             "questionType": {
